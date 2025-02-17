@@ -1,5 +1,4 @@
 #  **CS620 Git Quickstart**
----
 ##  **Create Project Git Repository**
 1. **Determine** whether you are creating a **new repo** or using an **existing/provided repository**.
 2. **Creating your own repository**  
@@ -10,7 +9,7 @@
 1. Make sure to **add all of your team members** by going to:  **Settings -> Collaborators** 
 2. Please invite **all the course staff** to your repo as well: 
 
-> Amber - amberrfield, Jerry - jerluo, Cathy - , Leah -
+> Amber - amberrfield, Jerry - jerluo, Cathy - cqthyy
 
 3. **Recommended:** Protect your **main branch** and require pull requests: - **Settings -> Rules -> Ruleset**
    - Name the rule (e.g., "main" or whatever you like).
@@ -137,5 +136,3 @@ git bisect reset
 --- 
 For basic information, refer to this [Git Guide](https://rogerdudler.github.io/git-guide/)
 And this [Oh Shit, Git!?!](https://ohshitgit.com/) for when you mess up
-
-#cs620
