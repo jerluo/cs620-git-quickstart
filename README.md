@@ -9,7 +9,7 @@
 1. Make sure to **add all of your team members** by going to:  **Settings -> Collaborators** 
 2. Please invite **all the course staff** to your repo as well: 
 
-> Amber - amberrfield, Jerry - jerluo, Cathy - cqthyy
+> Amber - amberrfield, Jerry - jerluo, Cathy - cqthyy, Leah - UWLeahUjda
 
 3. **Recommended:** Protect your **main branch** and require pull requests: - **Settings -> Rules -> Ruleset**
    - Name the rule (e.g., "main" or whatever you like).
